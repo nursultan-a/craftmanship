@@ -1,0 +1,2 @@
+# craftmanship
+software craftsmanship practices
